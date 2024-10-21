@@ -1,0 +1,3 @@
+[04-Dec-2019 22:12:33 Africa/Cairo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/mongezsys/public_html/mazaya/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[04-Dec-2019 22:13:02 Africa/Cairo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/mongezsys/public_html/mazaya/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 213
+[04-Dec-2019 22:14:42 Africa/Cairo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/mongezsys/public_html/mazaya/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330

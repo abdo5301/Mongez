@@ -1,0 +1,3 @@
+sql file
+mongez.zip
+add appurl to .env
